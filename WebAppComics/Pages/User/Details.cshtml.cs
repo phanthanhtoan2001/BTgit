@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations;
 using NToastNotify;
 using WebAppComics.Models;
-
+// Commit 1
 namespace ComicWebsite.Pages.ListImages
 {
     public class DetailsModel : PageModel
