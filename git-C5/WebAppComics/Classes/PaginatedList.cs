@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
 
-
+// Phan Thanh Toan 1911065425
 namespace WebAppComics.Classes
 {
     public class PaginatedList<T> : List<T>
