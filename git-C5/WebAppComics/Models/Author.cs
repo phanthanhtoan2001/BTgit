@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace WebAppComics.Models;
-
+//swrdtfyguhijo
 public partial class Author
 {
     public int AuthorId { get; set; }
